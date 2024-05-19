@@ -1,3 +1,7 @@
 !.gitignore
 
 data/*
+.dataset/*
+venv
+
+.idea
